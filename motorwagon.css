@@ -1,7 +1,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Sofia&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Sofia&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Anton&family=Orbitron&family=Sofia&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Anton&family=Orbitron&family=Prompt:wght@100&family=Sofia&display=swap');
    /* width: 40% */
 .first{
     color: rgb(14, 13, 13);
@@ -10,6 +10,9 @@
 }
 img{
     width: 40%;
+}
+.m6{
+    position: relative;
 }
 .mini{
     width: 85%;
@@ -35,6 +38,7 @@ body{
 .d2{
     position: relative;
 }
+
 .m{
     height: 50px;
     width: 16%;
@@ -57,21 +61,35 @@ button:hover{
 .m3{
     margin-left: 690px;
 }
+a{
+    color: rgb(100, 100, 100);
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 13px;
+    position: absolute;
+}
 .m4{
     margin-left: 940px;
 }
-/* .m6{
-    position: relative;
+.l1{
+    margin-left: 464px;
 }
-.m5{
-    position: absolute;
-} */
+.l2{
+    margin-left: 545px;
+}
+.l3{
+    margin-left: 600px;
+}
+.l4{
+    margin-left: 390px;
+}
 .h1{
     margin-left: 100px;
 }
 .moto{
     width: 26%;
-    height: 380px;
+    height: 340px;
     background-color: rgba(249, 250, 249, 0.959);
     float: left;
     left: 30px;
@@ -81,8 +99,6 @@ button:hover{
     border-radius: 10px;
     margin-left: 80px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    transform: scale(1.5px);
-
 }
 .im{
     height: 200px;
@@ -134,14 +150,14 @@ button:hover{
 }
 .p2{
     position: absolute;
-    top: 2550px;
+    top: 2380px;
     left: 750px;
     background-color: rgb(187, 183, 183);
     font-family: 'Alfa Slab One', cursive;
 }
 .p3{
     position: absolute;
-    top: 2620px;
+    top: 2470px;
     left: 750px;
     font-size: x-large;
 }
@@ -154,7 +170,7 @@ button:hover{
 .p5{
     position: absolute;
     left: 120px;
-    top: 3130px;
+    top: 2980px;
     font-size: xx-large;
 }
 .im2{
@@ -171,6 +187,40 @@ button:hover{
     margin-top: -40px;
     text-align: top 1px;
 }
+.tex{
+    margin-left: 20px;
+    margin-top: 30px;
+}
 .inne{
     text-align: center;
+}
+.mini-1{
+    margin-left: 200px;
+    width: 70%;
+    border-radius: 20px;
+}
+.last{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+.end{
+    position: absolute;
+
+}
+.moto-1:hover{
+   transform: scale(1.25);
+   transition: 2s;
+}
+.moto-2:hover{
+    transform: scale(1.25);
+    transition: 2s;
+}
+.moto-3:hover{
+    transform: scale(1.25);
+    transition: 2s;
+}
+.moto-4:hover{
+    transform: scale(1.25);
+    transition: 2s;
 }
