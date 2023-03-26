@@ -1,0 +1,176 @@
+  @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Sofia&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Sofia&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Annie+Use+Your+Telescope&family=Anton&family=Orbitron&family=Sofia&display=swap');
+
+   /* width: 40% */
+.first{
+    color: rgb(14, 13, 13);
+    margin-left: 50px; 
+    background-color: black;
+}
+img{
+    width: 40%;
+}
+.mini{
+    width: 85%;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+    position: relative;
+}
+body{
+    transition: 1s;
+}
+.d1{
+    width: 79%;
+    height: 84px;
+    margin-left: 150px;
+    margin-top: -50px;
+    border-radius: 20px;
+    background-color: rgb(247, 244, 244);
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.d2{
+    position: relative;
+}
+.m{
+    height: 50px;
+    width: 16%;
+    border-radius: 50px;
+    background-color: rgb(204, 202, 202);
+    color: rgb(34, 34, 34);
+    border: 3px solid rgb(36, 35, 35);
+    margin-left: 195px;
+    position: absolute;
+    margin-top: -65px;
+    text-align: center;
+}
+button:hover{
+    color: azure;
+    background-color: rgb(43, 42, 42);
+}
+.m2{
+    margin-left: 440px;
+}
+.m3{
+    margin-left: 690px;
+}
+.m4{
+    margin-left: 940px;
+}
+/* .m6{
+    position: relative;
+}
+.m5{
+    position: absolute;
+} */
+.h1{
+    margin-left: 100px;
+}
+.moto{
+    width: 26%;
+    height: 380px;
+    background-color: rgba(249, 250, 249, 0.959);
+    float: left;
+    left: 30px;
+    top: 20px;
+    /* border: rgb(236, 21, 21) 3px solid; */
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-left: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.5px);
+
+}
+.im{
+    height: 200px;
+    width: 89%;
+    margin-left: 18px;
+    margin-top: 18px;
+    border-radius: 8px;
+
+}
+.bu{
+    height: 50px;
+    width: 35%;
+    border-radius: 15px;
+    background-color: rgb(34, 17, 112);
+    color: rgb(246, 244, 248);
+    margin-left: 18px;
+    margin-top: 9px;
+    text-align: top 1px;
+}
+button:hover{
+    color: rgb(40, 8, 218);
+    background-color: rgb(245, 242, 242);
+}
+.p1{
+   text-align: right;
+   margin-right: 23px;
+   margin-top: -32px;
+}
+.moto-4{
+    margin-top: 60px;
+}
+.b{
+    height: 50px;
+    width: 35%;
+    border-radius: 15px;
+    background-color: red;
+    color: rgb(246, 244, 248);
+    margin-left: 18px;
+    margin-top: 9px;
+    text-align: top 1px; 
+}
+.back{
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-top: 60px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-family: 'Sofia', cursive;
+}
+.p2{
+    position: absolute;
+    top: 2550px;
+    left: 750px;
+    background-color: rgb(187, 183, 183);
+    font-family: 'Alfa Slab One', cursive;
+}
+.p3{
+    position: absolute;
+    top: 2620px;
+    left: 750px;
+    font-size: x-large;
+}
+.p4{
+    position: absolute;
+    left: 120px;
+    background-color: rgb(187, 183, 183);
+    font-family: 'Alfa Slab One', cursive;
+}
+.p5{
+    position: absolute;
+    left: 120px;
+    top: 3130px;
+    font-size: xx-large;
+}
+.im2{
+    margin-left: 750px;
+    border-radius: 20px;
+}
+.sell{
+    height: 50px;
+    width: 15%;
+    border-radius: 15px;
+    background-color: rgb(45, 4, 230);
+    color: rgb(246, 244, 248);
+    margin-left: 100px;
+    margin-top: -40px;
+    text-align: top 1px;
+}
+.inne{
+    text-align: center;
+}
